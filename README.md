@@ -1,0 +1,2 @@
+# miner
+my miner
